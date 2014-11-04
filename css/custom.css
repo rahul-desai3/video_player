@@ -1,0 +1,9 @@
+range{
+	outline: none;
+}
+div#container{
+	text-align: center;
+}
+video#video{
+	width: 50%;
+}
