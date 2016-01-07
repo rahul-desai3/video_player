@@ -4,7 +4,7 @@ Video Player
 Its just a basic HTML5 video player (with no styling).
 
 
-[Click here for the demo]
+[Demo]
 ====
 
 
@@ -28,4 +28,4 @@ License
 [MIT] (Open source)
 
 [MIT]:http://opensource.org/licenses/MIT
-[Demo]:http://rahul-desai3.github.io/video_player/#demo
+[Demo]:http://jsfiddle.net/tz0opmf4/show/
