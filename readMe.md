@@ -3,9 +3,7 @@ Video Player
 
 Its just a basic HTML5 video player (with no styling).
 
-
 [Click here for the demo]
-====
 
 
 Version
