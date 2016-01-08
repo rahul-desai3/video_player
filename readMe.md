@@ -23,7 +23,6 @@ Technologies
 License
 ----
 
-[MIT] (Open source)
+MIT
 
-[MIT]:http://opensource.org/licenses/MIT
 [Click here for the demo]:http://rahul-desai3.github.io/video_player/#demo
